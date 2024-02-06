@@ -59,7 +59,7 @@ The project follows a modular structure with key components:
 
 You can download the app from the below link:
 
-[Download Link](https://github.com/sai-charan2003/To-Do-List/releases/download/v1.0/app-release.apk).
+[Download Link](https://github.com/sai-charan2003/Movie-Explorer/releases/download/Movie-Explorer/app-release.apk).
 
 or you can can clone the app and run on your own
 ### Prerequisites
