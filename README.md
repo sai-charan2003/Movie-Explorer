@@ -14,6 +14,7 @@ Additionally, the app follows the MVVM (Model-View-ViewModel) architecture, whic
 -  **Room Database**: All data is stored locally on your device using the reliable and efficient ROOM database, based on SQLite, ensuring your information remains secure and readily accessible.
 -  **Worker Manager**: Workermanger is used to fetch the data from the api for every 30 minutes in the background.
 - **Retrofit**: Employed Retrofit, a powerful HTTP client for Android and Java, to seamlessly handle network requests and interact with the api.themoviedb.org, ensuring efficient data retrieval and communication.
+-  **Configuration Changes Handling**: Due to the ViewModel , the app will retain its state even when configuration changes occur.
 - **Google Material 3 design**: Built with Google's Material Design 3 principles, To-Do List boasts a sleek and intuitive interface that adapts dynamically to your wallpaper colors for a personalized touch.
 - **Kotlin**: Utilized the powerful Jetpack Compose framework based on Kotlin to build this app."
 
