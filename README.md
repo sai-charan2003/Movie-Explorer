@@ -18,7 +18,8 @@ Additionally, the app follows the MVVM (Model-View-ViewModel) architecture, whic
 - **Kotlin**: Utilized the powerful Jetpack Compose framework based on Kotlin to build this app."
 
 ## Project Structure
-![Screenshot 2024-02-06 153051](https://github.com/sai-charan2003/Battery-Tracker-Duplicate-/assets/83913880/5ac13c8d-a4b0-4e6c-889e-e406ca89c034)
+![Screenshot 2024-02-06 153051](https://github.com/sai-charan2003/Movie-Explorer/assets/83913880/a101a722-a306-47e3-a802-e58867c30825)
+
 
 The project follows a modular structure with key components:
 
