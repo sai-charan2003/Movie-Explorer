@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit
 fun task(context: Context){
 
     val batteryStatusRequest = PeriodicWorkRequestBuilder<workmanager>(
-        repeatInterval = 15,
+        repeatInterval = 30,
         repeatIntervalTimeUnit = TimeUnit.MINUTES
     ).build()
 
